@@ -1,1 +1,19 @@
 # cfg_files
+alt-tab
+iterm
+firefox-developer-edition
+appcleaner
+android-file-transfer
+android-platform-tools
+keepingyouawake
+discord
+slack
+vlc
+keka
+kap
+time-out
+gimp
+inkscape
+visual-studio-code
+sublime-text
+insomnia
